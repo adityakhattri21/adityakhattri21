@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">I'm a Developer from India<br><br>- 🔭 I’m working as Backend Dev @Koinx<br><br>- 📚 I'm currently learning Go & Docker<br><br>- 💬 Ask me about JS/TS , Node , Flask and DBs<br><br>- 👯 I am open to collaborate on Open-Source / Projects.<br><br>- ⚡ In my free time I watch F1 , play FPS and follow Defence Tech.<br><br>- 📫 How to reach me : <a href="mailto:adityakhattri123@gmail.com">adityakhattri123@gmail.com</a></h4>
+<h4 align="left">I'm a Developer from India<br><br>- 🔭 I’m working as Backend Dev @Koinx<br><br>- 📚 I'm currently learning Go & Docker<br><br>- 💬 Ask me about JS/TS , Node.js , Go and DBs<br><br>- 👯 I am open to collaborate on Open-Source / Projects.<br><br>- ⚡ In my free time I watch F1 , play FPS and follow Defence Tech.<br><br>- 📫 How to reach me : <a href="mailto:adityakhattri123@gmail.com">adityakhattri123@gmail.com</a></h4>
 
 ###
 
@@ -76,7 +76,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="mocha logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="go logo"  />
 </div>
 
 ###
