@@ -76,7 +76,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="mocha logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/golang-original.svg" height="40" alt="go logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
 ###
